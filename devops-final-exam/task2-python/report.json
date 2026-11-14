@@ -1,0 +1,7 @@
+{
+  "total_logs": 8,
+  "info": 3,
+  "warning": 2,
+  "error": 3,
+  "most_common_error": "Database timeout"
+}
