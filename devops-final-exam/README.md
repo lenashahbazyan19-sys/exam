@@ -1,32 +1,5 @@
 # DevOps Final Practical Examination
 
-## Repository Structure
-
-```
-devops-final-exam/
-├── task1-linux/
-│   └── system_monitor.sh
-├── task2-python/
-│   ├── log_analyzer.py
-│   └── report.json
-├── task3-docker/
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── Dockerfile
-│   └── .dockerignore
-├── task4-ansible/
-│   ├── inventory.ini
-│   └── setup.yml
-├── task5-terraform/
-│   ├── main.tf
-│   ├── variables.tf
-│   └── outputs.tf
-├── task6-kubernetes/
-│   ├── deployment.yaml
-│   └── service.yaml
-└── README.md
-```
-
 ## Environment Assumptions
 * **OS:** Ubuntu 22.04 / 24.04 LTS
 * **Tools installed:** Bash, Python 3.12+, Docker, Ansible, Terraform v1.5+, kubectl, and Minikube.
